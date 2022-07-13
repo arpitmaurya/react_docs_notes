@@ -1,0 +1,2 @@
+1.create simple react page by using cdn link
+2.Explore babel and Webpack

@@ -1,0 +1,8 @@
+1.Library vs framework
+2.JavaScript_Expresion 
+3.Which characters need to be escaped in HTML?
+
+
+In End:-
+Cross-site scripting
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#control_structures

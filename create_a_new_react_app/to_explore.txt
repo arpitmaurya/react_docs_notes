@@ -1,0 +1,9 @@
+1.static and server‑rendered applications ans single page applications
+2.cross origin in deep
+
+
+
+
+at the end Explore things -> https://reactjs.org/docs/create-a-new-react-app.html#more-flexible-toolchains
+
+last two  topic 
